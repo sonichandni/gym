@@ -17,10 +17,10 @@ const About: React.FC = () => {
       <div className="container mx-auto px-4 md:px-8">
         <div className="max-w-4xl mx-auto text-center mb-24">
           <h1 className="text-6xl md:text-8xl font-display font-black italic uppercase tracking-tighter mb-8">
-            About <span style={{ color: theme.colors.primary }}>Iron Elite</span>
+            About <span style={{ color: theme.colors.primary }}>The Fitness Club</span>
           </h1>
           <p className="text-xl text-gray-400 leading-relaxed">
-            Founded with a vision to redefine the fitness landscape in Ahmedabad, Iron Elite Fitness isn't just a gym—it's a lifestyle. We believe in high-intensity training, scientific nutrition, and creating a community of winners.
+            Founded with a vision to redefine the fitness landscape in Ahmedabad, The Fitness Club Fitness isn't just a gym—it's a lifestyle. We believe in high-intensity training, scientific nutrition, and creating a community of winners.
           </p>
         </div>
 

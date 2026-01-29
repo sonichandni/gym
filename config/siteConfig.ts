@@ -1,24 +1,24 @@
 
 export const siteConfig = {
-  gymName: "IRON ELITE FITNESS",
-  logo: "IRON ELITE",
+  gymName: "THE FITNESS CLUB",
+  logo: "THE FITNESS CLUB",
   tagline: "FORGE YOUR LEGACY",
   heroSubtitle: "Ahmedabad's most premium fitness destination for those who demand excellence.",
   
   contact: {
-    phone: "+91 98765 43210",
-    email: "contact@ironeliteahmedabad.com",
-    address: "4th Floor, Elite Plaza, Sindhu Bhavan Road, Bodakdev",
+    phone: "+91 12345 12345",
+    email: "contact@fitnessclub.com",
+    address: "4th Floor, Elite Plaza, New Road",
     city: "Ahmedabad",
     state: "Gujarat",
-    pincode: "380054",
-    whatsapp: "919876543210"
+    pincode: "12345",
+    whatsapp: "911234512345"
   },
 
   socials: {
-    instagram: "https://instagram.com/ironelite",
-    facebook: "https://facebook.com/ironelite",
-    youtube: "https://youtube.com/ironelite"
+    instagram: "https://instagram.com/thefitnessclub",
+    facebook: "https://facebook.com/thefitnessclub",
+    youtube: "https://youtube.com/thefitnessclub"
   },
 
   googleRating: {
@@ -71,7 +71,7 @@ export const siteConfig = {
     {
       id: 2,
       name: "Sanya Gupta",
-      text: "I've tried many gyms, but the personal trainers at Iron Elite are on another level. Highly recommended!",
+      text: "I've tried many gyms, but the personal trainers at The Fitness Club are on another level. Highly recommended!",
       rating: 5,
       avatar: "https://picsum.photos/seed/user2/100/100"
     }
